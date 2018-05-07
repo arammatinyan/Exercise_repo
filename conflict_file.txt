@@ -1,2 +1,2 @@
-Hellow from A
-Hellow from B
+Hello from A
+Hello from B
